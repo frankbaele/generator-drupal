@@ -2,8 +2,13 @@
   "name": "generator-drupal",
   "version": "0.1.0",
   "description": "Yeoman generator for Drupal",
-  "keywords": ["yeoman-generator"],
+  "keywords": [
+    "yeoman-generator"
+  ],
   "dependencies": {
-    "yeoman-generator": "^0.16.0"
+    "yeoman-generator": "^0.16.0",
+    "chalk": "^0.5.1",
+    "tar": "^1.0.1",
+    "request": "^2.40.0"
   }
 }
